@@ -1,1 +1,1 @@
-Implementation of a zipper data structure. Some of the primitives are written en assembly.
+Implementation of a zipper data structure. It is mainly written in C++, but some of the primitives are in assembly.
